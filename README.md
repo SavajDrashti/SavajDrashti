@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Drashti Savaj</h1>
-<h3 align="center">Python Developer | AI/ML Enthusiast </h3>
+<h1 align="center">👋 Hey, I'm Drashti Savaj</h1>
+<h2 align="center">Python Developer | AI/ML Enthusiast</h2>
+<p align="center">🚀 Building smart backends and intelligent AI systems</p>
 
 ---
 
