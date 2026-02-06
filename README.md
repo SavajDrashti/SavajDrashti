@@ -4,11 +4,11 @@
 ---
 
 ## 🚀 About Me
--🌱 Learning: RAG, LangChain, LLMs, and modern AI development.
--💻 Building: Smart and scalable Python backends.
--🤝 Collaborating: Open to exciting AI/ML and RAG-based projects.
--💬 Ask me about: Django, APIs, LLM pipelines, and backend systems.
--📧 Reach out: savajdrashti2511@gmail.com
+- 🌱 Learning: RAG, LangChain, LLMs, and modern AI development.
+- 💻 Building: Smart and scalable Python backends.
+- 🤝 Collaborating: Open to exciting AI/ML and RAG-based projects.
+- 💬 Ask me about: Django, APIs, LLM pipelines, and backend systems.
+- 📧 Reach out: savajdrashti2511@gmail.com
 
 ---
 
