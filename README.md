@@ -62,14 +62,6 @@
 
 ---
 
-## 📈 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Savaj_Drashti&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savaj_Drashti&layout=compact" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 - 🔗 LinkedIn: https://www.linkedin.com/in/drashti-savaj-5603ab278
 - 📧 Email: savajdrashti2511@gmail.com
