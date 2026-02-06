@@ -11,54 +11,51 @@
 - 📧 Reach out: savajdrashti2511@gmail.com
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B&logoColor=white"/>
-</p>
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=yellow)
+![C++](https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
+
+---
 
 ### ⚙️ Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/Django-green?style=flat&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-black?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebSockets-blueviolet?style=flat"/>
-  <img src="https://img.shields.io/badge/Redis-red?style=flat&logo=redis&logoColor=white"/>
-</p>
+![Django](https://img.shields.io/badge/Django-0A0A0A?style=for-the-badge&logo=django&logoColor=green)
+![REST API](https://img.shields.io/badge/REST_API-0A0A0A?style=for-the-badge&logo=postman&logoColor=orange)
+![WebSockets](https://img.shields.io/badge/WebSockets-0A0A0A?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-0A0A0A?style=for-the-badge&logo=redis&logoColor=red)
+
+---
 
 ### 🤖 Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/NumPy-lightblue?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-darkblue?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-orange?style=flat&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-red?style=flat&logo=keras&logoColor=white"/>
-</p>
+![NumPy](https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=blue)
+![Pandas](https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0A0A0A?style=for-the-badge&logo=scikitlearn&logoColor=orange)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0A0A0A?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![Keras](https://img.shields.io/badge/Keras-0A0A0A?style=for-the-badge&logo=keras&logoColor=red)
+
+---
 
 ### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white"/>
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=blue)
+
+---
 
 ### 🧰 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-blue?style=flat&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL%20Workbench-lightblue?style=flat"/>
-  <img src="https://img.shields.io/badge/HuggingFace-yellow?style=flat&logo=huggingface&logoColor=black"/>
-</p>
+![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=orange)
+![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-0A0A0A?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0A0A0A?style=for-the-badge&logo=huggingface&logoColor=yellow)
+
+---
 
 ### 📚 CS Fundamentals
-<p>
-  <img src="https://img.shields.io/badge/OOP-blue?style=flat"/>
-  <img src="https://img.shields.io/badge/DSA-green?style=flat"/>
-  <img src="https://img.shields.io/badge/Operating%20Systems-grey?style=flat"/>
-  <img src="https://img.shields.io/badge/DBMS-brown?style=flat"/>
-</p>
+![OOP](https://img.shields.io/badge/OOP-0A0A0A?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-0A0A0A?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-0A0A0A?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-0A0A0A?style=for-the-badge)
 
 ---
 
