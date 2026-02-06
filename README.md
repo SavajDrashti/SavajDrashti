@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Drashti Savaj</h1>
 <h2 align="center">Python Developer | AI/ML Enthusiast</h2>
-<p align="center">🚀 Building smart backends and intelligent AI-powered applications </p>
+<p align="center">🚀 Passionate about building smart, scalable backends and developing intelligent AI systems </p>
 
 ---
 
